@@ -11,7 +11,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 cryptography==43.0.0
-dbtc==0.11.3
+dbtc==0.11.5
 filelock==3.15.4
 gitdb==4.0.11
 GitPython==3.1.43
